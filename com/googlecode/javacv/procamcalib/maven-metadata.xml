@@ -2,14 +2,15 @@
 <metadata>
   <groupId>com.googlecode.javacv</groupId>
   <artifactId>procamcalib</artifactId>
-  <version>0.4</version>
+  <version>0.5</version>
   <versioning>
     <versions>
       <version>0.1</version>
       <version>0.2</version>
       <version>0.3</version>
       <version>0.4</version>
+      <version>0.5</version>
     </versions>
-    <lastUpdated>20130303104526</lastUpdated>
+    <lastUpdated>20130407122729</lastUpdated>
   </versioning>
 </metadata>
